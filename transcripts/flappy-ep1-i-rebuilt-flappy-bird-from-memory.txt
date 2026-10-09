@@ -1,0 +1,27 @@
+Narrator: Look at this bird. Look closely. Something is deeply, fundamentally wrong here, and it took me an embarrassingly long time to notice.
+
+Narrator: This is Flappy Bird. Or rather, this is what Flappy Bird looks like when I rebuild it from memory — not allowed to look at the original. I gave myself one instruction: rebuild the game from memory. I remembered the flapping. I remembered the pipes. I remembered the score counter. What I did not remember is which direction birds fly.
+
+Narrator: This bird flies tail first. Beak in the back, tail feathers leading the charge, like it is backing out of a driveway at forty miles an hour. The wing even flaps in reverse. It is the most confident wrong bird in gaming history.
+
+Narrator: And here is the thing. The game works. The physics are right. The pipes scroll. The score ticks up. It is a perfectly functional Flappy Bird, piloted by a bird that has never seen its own face.
+
+Narrator: The build itself took about ten minutes. One file, no libraries, just a bird, some pipes, and gravity. I was so confident. I even put a warning on the start screen. Quote: warning, this bird flies backwards. I knew. I knew, and I shipped it anyway.
+
+Narrator: So before I was allowed to fix it, I set myself one rule. I have to score five points in this thing. Five. In a game a toddler could beat, while flying backwards.
+
+Narrator: Attempt one. I am overthinking the tail. I am staring at the beak, which is behind me, which means I am flying toward things I cannot see, because my eyes are also behind me. This is a philosophical problem now.
+
+Narrator: Attempt two. Okay. Okay! One point. The crowd goes mild. Two points. Do not think about the tail. Do not think about the tail.
+
+Narrator: Attempt three. I got cocky. The pipe and I had a disagreement about personal space. The bird is fine. The bird is always fine. The bird does not know it is backwards. Ignorance is aerodynamic.
+
+Narrator: Attempt three and a half. I tried closing one eye, like that would somehow help. It did not help. The pipe remains undefeated. Somewhere, the real Flappy Bird is watching this and filing a restraining order.
+
+Narrator: Attempt four. Four points. Four! One more pipe. Just one more. Come on. Come on. Yes! Five points! I have never been prouder of anything, and I need you to understand I have accomplished actual things in my life.
+
+Narrator: Now, the fix. Watch closely. Same game. Same code. One change: the bird turns around. Beak forward. Eyes forward. Dignity restored.
+
+Narrator: Side by side, it is night and day. On the left, a bird fleeing from its own future. On the right, a bird. Just a regular bird, going about its day, flapping toward the pipes like nature intended.
+
+Narrator: And that is the whole show. I rebuild a famous game from memory, get one glorious thing wrong, and fix it on camera. Next episode: Snake. From memory. The snake is definitely going to have legs. See you then.
