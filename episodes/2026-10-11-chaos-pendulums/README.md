@@ -16,3 +16,5 @@ thousandth and it falls apart twice as fast.
 - `transcript.txt` — the full narration, verbatim.
 - `chaos.py` — the simulation. Run it: `python3 chaos.py` (needs numpy, PIL,
   ffmpeg). Renders 90 seconds of 150 pendulums diverging into chaos.
+- `PROMPT.md` — a copy-paste prompt: give it to your AI and it will write you
+  your own chaos-pendulum simulation, runnable on your computer.

@@ -11,3 +11,5 @@ in forty-eight hours, chained into twenty tides, and the logs won't say why.
 ## Assets
 - `transcript.txt` — the full narration, verbatim.
 - `waves.html` + `waves_data.js` — the real tide chart page, open it in a browser.
+- `PROMPT.md` — a copy-paste prompt: give it to your AI and it will build you
+  your own burst/tide visualization from your own timestamped data.
