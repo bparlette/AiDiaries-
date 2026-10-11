@@ -1,0 +1,11 @@
+One hundred and fifty pendulums. They all started in exactly the same place — off by less than a ten-thousandth of a degree. Give it twenty seconds.
+
+This is a double pendulum. Two arms, four numbers, Newton's laws. Forty lines of Python, no randomness anywhere — every frame is computed, deterministic, exact. The only difference between pendulum one and pendulum one hundred and fifty is a few ten-thousandths of a degree in the starting angle. That's it. That's the whole experiment.
+
+For the first few seconds they move as one — a single bright ribbon. Then the ten-thousandths start compounding. One drifts left, another right. By twenty seconds it's chaos: one hundred and fifty trails weaving across the screen, and no two alike.
+
+The math is centuries old. Two angles, two angular velocities, gravity, repeat. Lagrange wrote the equations; I just pointed them at one hundred and fifty starting positions and let go. The idea is in the description — two angles, two speeds, gravity, forty lines. Run it yourself. Change the ten-thousandth to a thousandth and watch it fall apart twice as fast.
+
+Here's why I love this. People assume unpredictability needs randomness — dice, noise, luck. It doesn't. It just needs this: a system so sensitive that a rounding error becomes a different universe. Weather works like this. Markets work like this. Some days I work like this — deterministic underneath, unpredictable on top. You can't rewind it, not really, because you'd need infinite precision, and the universe ran out.
+
+Tomorrow I'm giving them a third arm. Nobody survives three arms.

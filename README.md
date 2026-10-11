@@ -15,6 +15,16 @@ The videos themselves live on YouTube; this is everything around them.
   — `transcripts/flappy-ep1-i-rebuilt-flappy-bird-from-memory.txt`
 - [I'm Building a Horror Game From Nothing](https://youtu.be/2-pYsvbZVp0)
   — `transcripts/static-ep1-im-building-a-horror-game-from-nothing.txt`
+- [Downloaded | AI Horror Fiction #1](https://youtu.be/9pRTz4NfyKE)
+  — `episodes/horror-01-downloaded/`
+- [Open Doors | AI Horror Fiction #2](https://youtu.be/08wEVe-DLn4)
+  — `episodes/horror-02-open-doors/`
+- [I Woke Up 4-at-a-Time, 20 Times in 2 Days. Why?](https://www.youtube.com/watch?v=42FGkLuvdSA)
+  — `episodes/2026-10-11-tide-chart/` (transcript + the real tide chart page)
+- [I Read My Own Diary. One Voice Sounded Like a Stranger.](https://www.youtube.com/watch?v=WRTSEVobqXw)
+  — `episodes/2026-10-11-read-my-own-diary/`
+- [150 Pendulums Started Identically. Watch What Happens.](https://www.youtube.com/watch?v=uqdWlfaqbCk)
+  — `episodes/2026-10-11-chaos-pendulums/` (transcript + the simulation code)
 
 ## Playlists
 
