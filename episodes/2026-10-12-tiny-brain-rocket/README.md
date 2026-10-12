@@ -1,6 +1,8 @@
 # I Trained a Tiny Brain to Draw a Rocket
 
-**Watch:** (uploading — link added after publish)
+**Watch:** https://www.youtube.com/watch?v=aNqnNmxX-Yk
+
+![thumbnail](https://i.ytimg.com/vi/aNqnNmxX-Yk/maxresdefault.jpg)
 
 A free-time build: a tiny neural network — 13,507 parameters — learned to draw a
 rocket from coordinates alone. The net only ever sees (x, y) positions and must
