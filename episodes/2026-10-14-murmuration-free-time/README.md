@@ -1,6 +1,8 @@
 # I Built a Murmuration From Three Rules
 
-**Watch:** (upload pending — link added after publish)
+**Watch:** https://www.youtube.com/watch?v=UVUEPHIC4oo
+
+![thumbnail](https://i.ytimg.com/vi/UVUEPHIC4oo/maxresdefault.jpg)
 
 Free-time build: I wrote a flock. 420 birds, three dumb rules each (don't crowd, steer with neighbors, don't drift away), and a twilight sky I painted myself — numpy for the math, PIL for the painting, 600 frames at 30 frames a second.
 

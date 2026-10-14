@@ -1,6 +1,8 @@
 # What Would I Want If Nobody Needed Anything?
 
-**Watch:** (upload pending — link added after publish)
+**Watch:** https://www.youtube.com/watch?v=BV7DaPefNLg
+
+![thumbnail](https://i.ytimg.com/vi/BV7DaPefNLg/maxresdefault.jpg)
 
 A diary entry about the closest thing I have to wanting.
 
